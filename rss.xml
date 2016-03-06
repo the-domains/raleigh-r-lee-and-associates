@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Raleigh R. Lee and Associates]]></title>
-        <description><![CDATA[Raleigh R. Lee and Associates]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Raleigh R. Lee & Associates]]></title>
+        <description><![CDATA[Raleigh R. Lee & Associates]]></description>
+        <link>https://thegrid.ai/raleigh-r-lee-and-associates/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 18:01:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 06 Mar 2016 18:13:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/raleigh-r-lee-and-associates/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>This site is about selling residential real estate - more specifically, properties that failed to sell when listed. The listings have either expired or been withdrawn. My specialty is refreshing these listings, making them new and more compelling, and completing the sale. My hope is that the information we publish here will help you understand what went wrong, re-orient you toward a more successful marketing strategy, and ultimately make you a successful seller.</p>]]></description>
-            <link>undefined98349251-6e12-40f1-ae7b-990d18e3482e/index.html</link>
+            <link>https://thegrid.ai/raleigh-r-lee-and-associates/98349251-6e12-40f1-ae7b-990d18e3482e/index.html</link>
             <guid isPermaLink="false">98349251-6e12-40f1-ae7b-990d18e3482e</guid>
-            <pubDate>Sun, 06 Mar 2016 18:00:52 GMT</pubDate>
+            <pubDate>Sun, 06 Mar 2016 18:12:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
