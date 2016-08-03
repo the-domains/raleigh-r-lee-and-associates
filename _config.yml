@@ -1,20 +1,4 @@
-name: 'Raleigh R. Lee & Associates'
-favicon: null
-layout_spectrum: 0.2897107247263193
 typography_spectrum: 0.8267767529468983
-title: 'Raleigh R. Lee & Associates'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#028aed'
@@ -26,4 +10,21 @@ color:
   lightness: 0.4783893737476319
   saturation: 0.5721109793521464
   rhythmicContrast: 0.07609366648830473
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.2897107247263193
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Raleigh R. Lee & Associates
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Raleigh R. Lee & Associates
+description: Energy | Integrity | Mastery
 purpose: []
