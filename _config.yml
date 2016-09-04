@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: About Us
+    id: 98349251-6e12-40f1-ae7b-990d18e3482e
+    type: content
 favicon: null
 title: Raleigh Lee Realty
 description: Energy | Integrity | Mastery
